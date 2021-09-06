@@ -1,11 +1,16 @@
+.diri{
+    margin-left: 30px;
+    padding:5px;
+    background-color:bisque;
+}
+
 .header{
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 20px;
     margin-right: 20px;
     display: flex;
     justify-content: center;
     column-gap: 75px;
-
 }
 
 
@@ -14,6 +19,7 @@
     border: 5px solid black;
     height: 400px;
     width: 500px;
+    background-color: blanchedalmond;
 }
 
 h1{
@@ -25,6 +31,7 @@ h1{
     border: 5px solid black;
     height: 400px;
     width: 500px;
+    background-color: blanchedalmond;
 }
 
 
@@ -34,8 +41,13 @@ h1{
     border: 5px solid black;
     height: 400px;
     width: 500px;
+    background-color: blanchedalmond;
 }
 
+#contact{
+    display: flex;
+    justify-content: center;
+}
 #Image{
     display: flex;
     justify-content: center;
